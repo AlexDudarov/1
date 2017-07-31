@@ -1,0 +1,17 @@
+gmail\alexdudarkov\sportshop\model\OrderItem.class
+gmail\alexdudarkov\sportshop\model\BrandGood.class
+gmail\alexdudarkov\sportshop\model\UserInformation$Gender.class
+gmail\alexdudarkov\sportshop\model\User.class
+gmail\alexdudarkov\sportshop\model\User$Role.class
+gmail\alexdudarkov\sportshop\dao\GenericDao.class
+gmail\alexdudarkov\sportshop\model\TypeGood.class
+gmail\alexdudarkov\sportshop\dao\DaoException.class
+gmail\alexdudarkov\sportshop\model\Order$Status.class
+gmail\alexdudarkov\sportshop\dao\UserDaoImpl.class
+gmail\alexdudarkov\sportshop\model\News.class
+gmail\alexdudarkov\sportshop\model\UserInformation.class
+gmail\alexdudarkov\sportshop\HibernateUtil.class
+gmail\alexdudarkov\sportshop\dao\AbstractGenericDao.class
+gmail\alexdudarkov\sportshop\dao\UserDao.class
+gmail\alexdudarkov\sportshop\model\Good.class
+gmail\alexdudarkov\sportshop\model\Order.class
